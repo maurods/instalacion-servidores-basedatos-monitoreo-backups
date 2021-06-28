@@ -1,0 +1,460 @@
+2019-08-30 21:42:50
+Warning: Using a password on the command line interface can be insecure.
+2019-08-30 21:43:31
+Warning: Using a password on the command line interface can be insecure.
+2019-08-30 21:44:19
+ping: hola: Nombre o servicio desconocido
+2019-08-30 21:46:33
+ssh: connect to host 192.168.43.186 port 22: Network is unreachable
+lost connection
+2019-10-05 11:53:01
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied (publickey,password).
+rsync error: unexplained error (code 255) at rsync.c(644) [sender=3.1.2]
+2019-10-05 15:18:57
+rm: no se puede borrar '/backupsscripts/*.sql': No existe el fichero o el directorio
+Warning: Using a password on the command line interface can be insecure.
+2019-10-12 02:01:01
+ssh: connect to host 192.168.43.186 port 22: No route to host
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-12 03:01:01
+ssh: connect to host 192.168.43.186 port 22: No route to host
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-12 04:01:01
+ssh: connect to host 192.168.43.186 port 22: No route to host
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-12 05:01:01
+ssh: connect to host 192.168.43.186 port 22: No route to host
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-12 06:01:01
+ssh: connect to host 192.168.43.186 port 22: No route to host
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-12 07:01:01
+ssh: connect to host 192.168.43.186 port 22: No route to host
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-12 08:01:01
+ssh: connect to host 192.168.43.186 port 22: No route to host
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-12 09:01:01
+ssh: connect to host 192.168.43.186 port 22: Connection timed out
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-12 10:01:01
+ssh: connect to host 192.168.43.186 port 22: Connection timed out
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-12 11:01:01
+ssh: connect to host 192.168.43.186 port 22: Connection timed out
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-12 12:01:01
+ssh: connect to host 192.168.43.186 port 22: Connection timed out
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-12 13:01:01
+ssh: connect to host 192.168.43.186 port 22: Connection timed out
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.2]
+2019-10-13 19:44:24
+receiving incremental file list
+./
+2018/
+2019/
+
+sent 35 bytes  received 120 bytes  103.33 bytes/sec
+total size is 0  speedup is 0.00
+2019-10-13 19:46:01
+receiving incremental file list
+./
+2017/
+
+sent 33 bytes  received 142 bytes  116.67 bytes/sec
+total size is 0  speedup is 0.00
+2019-10-14 09:00:37
+receiving incremental file list
+
+sent 23 bytes  received 132 bytes  310.00 bytes/sec
+total size is 0  speedup is 0.00
+2019-10-14 13:26:10
+sending incremental file list
+./
+rsync: failed to set times on "/archivosbackups/servidorbasedatos/binlogs/2019": Operation not permitted (1)
+rsync: recv_generator: mkdir "/archivosbackups/servidorbasedatos/binlogs/2019/10" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+2019/
+2019/10/
+
+sent 1.15K bytes  received 319 bytes  981.33 bytes/sec
+total size is 3.84K  speedup is 2.61
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2019-10-14 13:27:39
+sending incremental file list
+rsync: failed to set times on "/archivosbackups/servidorbasedatos/binlogs/2019": Operation not permitted (1)
+rsync: recv_generator: mkdir "/archivosbackups/servidorbasedatos/binlogs/2019/10" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+2019/
+2019/10/
+
+sent 1.15K bytes  received 312 bytes  2.92K bytes/sec
+total size is 3.84K  speedup is 2.63
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1196) [sender=3.1.2]
+2019-10-14 13:30:42
+sending incremental file list
+./
+2019/
+2019/10/
+2019/10/14/
+2019/10/14/1-mysql-bin.2019-10-14_13-23
+2019/10/14/10-mysql-bin.2019-10-14_13-25
+2019/10/14/11-mysql-bin.2019-10-14_13-25
+2019/10/14/12-mysql-bin.2019-10-14_13-25
+2019/10/14/13-mysql-bin.2019-10-14_13-25
+2019/10/14/14-mysql-bin.2019-10-14_13-25
+2019/10/14/15-mysql-bin.2019-10-14_13-25
+2019/10/14/16-mysql-bin.2019-10-14_13-25
+2019/10/14/17-mysql-bin.2019-10-14_13-25
+2019/10/14/18-mysql-bin.2019-10-14_13-25
+2019/10/14/19-mysql-bin.2019-10-14_13-25
+2019/10/14/2-mysql-bin.2019-10-14_13-24
+2019/10/14/20-mysql-bin.2019-10-14_13-25
+2019/10/14/21-mysql-bin.2019-10-14_13-25
+2019/10/14/22-mysql-bin.2019-10-14_13-25
+2019/10/14/23-mysql-bin.2019-10-14_13-25
+2019/10/14/3-mysql-bin.2019-10-14_13-25
+2019/10/14/4-mysql-bin.2019-10-14_13-25
+2019/10/14/5-mysql-bin.2019-10-14_13-25
+2019/10/14/6-mysql-bin.2019-10-14_13-25
+2019/10/14/7-mysql-bin.2019-10-14_13-25
+2019/10/14/8-mysql-bin.2019-10-14_13-25
+2019/10/14/9-mysql-bin.2019-10-14_13-25
+
+sent 5.99K bytes  received 472 bytes  12.92K bytes/sec
+total size is 3.84K  speedup is 0.59
+2019-10-14 14:30:05
+sending incremental file list
+./
+2019/
+2019/10/
+2019/10/01/
+2019/10/01/1-mysql-bin.2019-10-01_01-59
+2019/10/01/10-mysql-bin.2019-10-01_10-59
+2019/10/01/11-mysql-bin.2019-10-01_11-59
+2019/10/01/12-mysql-bin.2019-10-01_12-59
+2019/10/01/13-mysql-bin.2019-10-01_13-59
+2019/10/01/14-mysql-bin.2019-10-01_14-59
+2019/10/01/15-mysql-bin.2019-10-01_15-59
+2019/10/01/16-mysql-bin.2019-10-01_16-59
+2019/10/01/17-mysql-bin.2019-10-01_17-59
+2019/10/01/18-mysql-bin.2019-10-01_18-59
+2019/10/01/19-mysql-bin.2019-10-01_19-59
+2019/10/01/2-mysql-bin.2019-10-01_02-59
+2019/10/01/20-mysql-bin.2019-10-01_20-59
+2019/10/01/21-mysql-bin.2019-10-01_21-59
+2019/10/01/22-mysql-bin.2019-10-01_22-59
+2019/10/01/23-mysql-bin.2019-10-01_23-59
+2019/10/01/3-mysql-bin.2019-10-01_03-59
+2019/10/01/4-mysql-bin.2019-10-01_04-59
+2019/10/01/5-mysql-bin.2019-10-01_05-59
+2019/10/01/6-mysql-bin.2019-10-01_06-59
+2019/10/01/7-mysql-bin.2019-10-01_07-59
+2019/10/01/8-mysql-bin.2019-10-01_08-59
+2019/10/01/9-mysql-bin.2019-10-01_09-59
+2019/10/02/
+2019/10/02/1-mysql-bin.2019-10-02_01-59
+2019/10/02/10-mysql-bin.2019-10-02_10-59
+2019/10/02/11-mysql-bin.2019-10-02_11-59
+2019/10/02/12-mysql-bin.2019-10-02_12-59
+2019/10/02/13-mysql-bin.2019-10-02_13-59
+2019/10/02/14-mysql-bin.2019-10-02_14-59
+2019/10/02/15-mysql-bin.2019-10-02_15-59
+2019/10/02/16-mysql-bin.2019-10-02_16-59
+2019/10/02/17-mysql-bin.2019-10-02_17-59
+2019/10/02/18-mysql-bin.2019-10-02_18-59
+2019/10/02/19-mysql-bin.2019-10-02_19-59
+2019/10/02/2-mysql-bin.2019-10-02_02-59
+2019/10/02/20-mysql-bin.2019-10-02_20-59
+2019/10/02/21-mysql-bin.2019-10-02_21-59
+2019/10/02/22-mysql-bin.2019-10-02_22-59
+2019/10/02/23-mysql-bin.2019-10-02_23-59
+2019/10/02/3-mysql-bin.2019-10-02_03-59
+2019/10/02/4-mysql-bin.2019-10-02_04-59
+2019/10/02/5-mysql-bin.2019-10-02_05-59
+2019/10/02/6-mysql-bin.2019-10-02_06-59
+2019/10/02/7-mysql-bin.2019-10-02_07-59
+2019/10/02/8-mysql-bin.2019-10-02_08-59
+2019/10/02/9-mysql-bin.2019-10-02_09-59
+2019/10/03/
+2019/10/03/1-mysql-bin.2019-10-03_01-59
+2019/10/03/10-mysql-bin.2019-10-03_10-59
+2019/10/03/11-mysql-bin.2019-10-03_11-59
+2019/10/03/12-mysql-bin.2019-10-03_12-59
+2019/10/03/13-mysql-bin.2019-10-03_13-59
+2019/10/03/14-mysql-bin.2019-10-03_14-59
+2019/10/03/15-mysql-bin.2019-10-03_15-59
+2019/10/03/16-mysql-bin.2019-10-03_16-59
+2019/10/03/17-mysql-bin.2019-10-03_17-59
+2019/10/03/18-mysql-bin.2019-10-03_18-59
+2019/10/03/19-mysql-bin.2019-10-03_19-59
+2019/10/03/2-mysql-bin.2019-10-03_02-59
+2019/10/03/20-mysql-bin.2019-10-03_20-59
+2019/10/03/21-mysql-bin.2019-10-03_21-59
+2019/10/03/22-mysql-bin.2019-10-03_22-59
+2019/10/03/23-mysql-bin.2019-10-03_23-59
+2019/10/03/3-mysql-bin.2019-10-03_03-59
+2019/10/03/4-mysql-bin.2019-10-03_04-59
+2019/10/03/5-mysql-bin.2019-10-03_05-59
+2019/10/03/6-mysql-bin.2019-10-03_06-59
+2019/10/03/7-mysql-bin.2019-10-03_07-59
+2019/10/03/8-mysql-bin.2019-10-03_08-59
+2019/10/03/9-mysql-bin.2019-10-03_09-59
+2019/10/04/
+2019/10/04/1-mysql-bin.2019-10-04_01-59
+2019/10/04/10-mysql-bin.2019-10-04_10-59
+2019/10/04/11-mysql-bin.2019-10-04_11-59
+2019/10/04/12-mysql-bin.2019-10-04_12-59
+2019/10/04/13-mysql-bin.2019-10-04_13-59
+2019/10/04/14-mysql-bin.2019-10-04_14-59
+2019/10/04/15-mysql-bin.2019-10-04_15-59
+2019/10/04/16-mysql-bin.2019-10-04_16-59
+2019/10/04/17-mysql-bin.2019-10-04_17-59
+2019/10/04/18-mysql-bin.2019-10-04_18-59
+2019/10/04/19-mysql-bin.2019-10-04_19-59
+2019/10/04/2-mysql-bin.2019-10-04_02-59
+2019/10/04/20-mysql-bin.2019-10-04_20-59
+2019/10/04/21-mysql-bin.2019-10-04_21-59
+2019/10/04/22-mysql-bin.2019-10-04_22-59
+2019/10/04/23-mysql-bin.2019-10-04_23-59
+2019/10/04/3-mysql-bin.2019-10-04_03-59
+2019/10/04/4-mysql-bin.2019-10-04_04-59
+2019/10/04/5-mysql-bin.2019-10-04_05-59
+2019/10/04/6-mysql-bin.2019-10-04_06-59
+2019/10/04/7-mysql-bin.2019-10-04_07-59
+2019/10/04/8-mysql-bin.2019-10-04_08-59
+2019/10/04/9-mysql-bin.2019-10-04_09-59
+2019/10/05/
+2019/10/05/1-mysql-bin.2019-10-05_01-59
+2019/10/05/10-mysql-bin.2019-10-05_10-59
+2019/10/05/11-mysql-bin.2019-10-05_11-59
+2019/10/05/12-mysql-bin.2019-10-05_12-59
+2019/10/05/13-mysql-bin.2019-10-05_13-59
+2019/10/05/14-mysql-bin.2019-10-05_14-59
+2019/10/05/15-mysql-bin.2019-10-05_15-59
+2019/10/05/16-mysql-bin.2019-10-05_16-59
+2019/10/05/17-mysql-bin.2019-10-05_17-59
+2019/10/05/18-mysql-bin.2019-10-05_18-59
+2019/10/05/19-mysql-bin.2019-10-05_19-59
+2019/10/05/2-mysql-bin.2019-10-05_02-59
+2019/10/05/20-mysql-bin.2019-10-05_20-59
+2019/10/05/21-mysql-bin.2019-10-05_21-59
+2019/10/05/22-mysql-bin.2019-10-05_22-59
+2019/10/05/23-mysql-bin.2019-10-05_23-59
+2019/10/05/3-mysql-bin.2019-10-05_03-59
+2019/10/05/4-mysql-bin.2019-10-05_04-59
+2019/10/05/5-mysql-bin.2019-10-05_05-59
+2019/10/05/6-mysql-bin.2019-10-05_06-59
+2019/10/05/7-mysql-bin.2019-10-05_07-59
+2019/10/05/8-mysql-bin.2019-10-05_08-59
+2019/10/05/9-mysql-bin.2019-10-05_09-59
+2019/10/06/
+2019/10/06/1-mysql-bin.2019-10-06_01-59
+2019/10/06/10-mysql-bin.2019-10-06_10-59
+2019/10/06/11-mysql-bin.2019-10-06_11-59
+2019/10/06/12-mysql-bin.2019-10-06_12-59
+2019/10/06/13-mysql-bin.2019-10-06_13-59
+2019/10/06/14-mysql-bin.2019-10-06_14-59
+2019/10/06/15-mysql-bin.2019-10-06_15-59
+2019/10/06/16-mysql-bin.2019-10-06_16-59
+2019/10/06/17-mysql-bin.2019-10-06_17-59
+2019/10/06/18-mysql-bin.2019-10-06_18-59
+2019/10/06/19-mysql-bin.2019-10-06_19-59
+2019/10/06/2-mysql-bin.2019-10-06_02-59
+2019/10/06/20-mysql-bin.2019-10-06_20-59
+2019/10/06/21-mysql-bin.2019-10-06_21-59
+2019/10/06/22-mysql-bin.2019-10-06_22-59
+2019/10/06/23-mysql-bin.2019-10-06_23-59
+2019/10/06/3-mysql-bin.2019-10-06_03-59
+2019/10/06/4-mysql-bin.2019-10-06_04-59
+2019/10/06/5-mysql-bin.2019-10-06_05-59
+2019/10/06/6-mysql-bin.2019-10-06_06-59
+2019/10/06/7-mysql-bin.2019-10-06_07-59
+2019/10/06/8-mysql-bin.2019-10-06_08-59
+2019/10/06/9-mysql-bin.2019-10-06_09-59
+2019/10/07/
+2019/10/07/1-mysql-bin.2019-10-07_01-59
+2019/10/07/10-mysql-bin.2019-10-07_10-59
+2019/10/07/11-mysql-bin.2019-10-07_11-59
+2019/10/07/12-mysql-bin.2019-10-07_12-59
+2019/10/07/13-mysql-bin.2019-10-07_13-59
+2019/10/07/14-mysql-bin.2019-10-07_14-59
+2019/10/07/15-mysql-bin.2019-10-07_15-59
+2019/10/07/16-mysql-bin.2019-10-07_16-59
+2019/10/07/17-mysql-bin.2019-10-07_17-59
+2019/10/07/18-mysql-bin.2019-10-07_18-59
+2019/10/07/19-mysql-bin.2019-10-07_19-59
+2019/10/07/2-mysql-bin.2019-10-07_02-59
+2019/10/07/20-mysql-bin.2019-10-07_20-59
+2019/10/07/21-mysql-bin.2019-10-07_21-59
+2019/10/07/22-mysql-bin.2019-10-07_22-59
+2019/10/07/23-mysql-bin.2019-10-07_23-59
+2019/10/07/3-mysql-bin.2019-10-07_03-59
+2019/10/07/4-mysql-bin.2019-10-07_04-59
+2019/10/07/5-mysql-bin.2019-10-07_05-59
+2019/10/07/6-mysql-bin.2019-10-07_06-59
+2019/10/07/7-mysql-bin.2019-10-07_07-59
+2019/10/07/8-mysql-bin.2019-10-07_08-59
+2019/10/07/9-mysql-bin.2019-10-07_09-59
+2019/10/08/
+2019/10/08/1-mysql-bin.2019-10-08_01-59
+2019/10/08/10-mysql-bin.2019-10-08_10-59
+2019/10/08/11-mysql-bin.2019-10-08_11-59
+2019/10/08/12-mysql-bin.2019-10-08_12-59
+2019/10/08/13-mysql-bin.2019-10-08_13-59
+2019/10/08/14-mysql-bin.2019-10-08_14-59
+2019/10/08/15-mysql-bin.2019-10-08_15-59
+2019/10/08/16-mysql-bin.2019-10-08_16-59
+2019/10/08/17-mysql-bin.2019-10-08_17-59
+2019/10/08/18-mysql-bin.2019-10-08_18-59
+2019/10/08/19-mysql-bin.2019-10-08_19-59
+2019/10/08/2-mysql-bin.2019-10-08_02-59
+2019/10/08/20-mysql-bin.2019-10-08_20-59
+2019/10/08/21-mysql-bin.2019-10-08_21-59
+2019/10/08/22-mysql-bin.2019-10-08_22-59
+2019/10/08/23-mysql-bin.2019-10-08_23-59
+2019/10/08/3-mysql-bin.2019-10-08_03-59
+2019/10/08/4-mysql-bin.2019-10-08_04-59
+2019/10/08/5-mysql-bin.2019-10-08_05-59
+2019/10/08/6-mysql-bin.2019-10-08_06-59
+2019/10/08/7-mysql-bin.2019-10-08_07-59
+2019/10/08/8-mysql-bin.2019-10-08_08-59
+2019/10/08/9-mysql-bin.2019-10-08_09-59
+2019/10/09/
+2019/10/09/1-mysql-bin.2019-10-09_01-59
+2019/10/09/10-mysql-bin.2019-10-09_10-59
+2019/10/09/11-mysql-bin.2019-10-09_11-59
+2019/10/09/12-mysql-bin.2019-10-09_12-59
+2019/10/09/13-mysql-bin.2019-10-09_13-59
+2019/10/09/14-mysql-bin.2019-10-09_14-59
+2019/10/09/15-mysql-bin.2019-10-09_15-59
+2019/10/09/16-mysql-bin.2019-10-09_16-59
+2019/10/09/17-mysql-bin.2019-10-09_17-59
+2019/10/09/18-mysql-bin.2019-10-09_18-59
+2019/10/09/19-mysql-bin.2019-10-09_19-59
+2019/10/09/2-mysql-bin.2019-10-09_02-59
+2019/10/09/20-mysql-bin.2019-10-09_20-59
+2019/10/09/21-mysql-bin.2019-10-09_21-59
+2019/10/09/22-mysql-bin.2019-10-09_22-59
+2019/10/09/23-mysql-bin.2019-10-09_23-59
+2019/10/09/3-mysql-bin.2019-10-09_03-59
+2019/10/09/4-mysql-bin.2019-10-09_04-59
+2019/10/09/5-mysql-bin.2019-10-09_05-59
+2019/10/09/6-mysql-bin.2019-10-09_06-59
+2019/10/09/7-mysql-bin.2019-10-09_07-59
+2019/10/09/8-mysql-bin.2019-10-09_08-59
+2019/10/09/9-mysql-bin.2019-10-09_09-59
+2019/10/10/
+2019/10/10/1-mysql-bin.2019-10-10_01-59
+2019/10/10/10-mysql-bin.2019-10-10_10-59
+2019/10/10/11-mysql-bin.2019-10-10_11-59
+2019/10/10/12-mysql-bin.2019-10-10_12-59
+2019/10/10/13-mysql-bin.2019-10-10_13-59
+2019/10/10/14-mysql-bin.2019-10-10_14-59
+2019/10/10/15-mysql-bin.2019-10-10_15-59
+2019/10/10/16-mysql-bin.2019-10-10_16-59
+2019/10/10/17-mysql-bin.2019-10-10_17-59
+2019/10/10/18-mysql-bin.2019-10-10_18-59
+2019/10/10/19-mysql-bin.2019-10-10_19-59
+2019/10/10/2-mysql-bin.2019-10-10_02-59
+2019/10/10/20-mysql-bin.2019-10-10_20-59
+2019/10/10/21-mysql-bin.2019-10-10_21-59
+2019/10/10/22-mysql-bin.2019-10-10_22-59
+2019/10/10/23-mysql-bin.2019-10-10_23-59
+2019/10/10/3-mysql-bin.2019-10-10_03-59
+2019/10/10/4-mysql-bin.2019-10-10_04-59
+2019/10/10/5-mysql-bin.2019-10-10_05-59
+2019/10/10/6-mysql-bin.2019-10-10_06-59
+2019/10/10/7-mysql-bin.2019-10-10_07-59
+2019/10/10/8-mysql-bin.2019-10-10_08-59
+2019/10/10/9-mysql-bin.2019-10-10_09-59
+2019/10/11/
+2019/10/11/1-mysql-bin.2019-10-11_01-59
+2019/10/11/10-mysql-bin.2019-10-11_10-59
+2019/10/11/11-mysql-bin.2019-10-11_11-59
+2019/10/11/12-mysql-bin.2019-10-11_12-59
+2019/10/11/13-mysql-bin.2019-10-11_13-59
+2019/10/11/14-mysql-bin.2019-10-11_14-59
+2019/10/11/15-mysql-bin.2019-10-11_15-59
+2019/10/11/16-mysql-bin.2019-10-11_16-59
+2019/10/11/17-mysql-bin.2019-10-11_17-59
+2019/10/11/18-mysql-bin.2019-10-11_18-59
+2019/10/11/19-mysql-bin.2019-10-11_19-59
+2019/10/11/2-mysql-bin.2019-10-11_02-59
+2019/10/11/20-mysql-bin.2019-10-11_20-59
+2019/10/11/21-mysql-bin.2019-10-11_21-59
+2019/10/11/22-mysql-bin.2019-10-11_22-59
+2019/10/11/23-mysql-bin.2019-10-11_23-59
+2019/10/11/3-mysql-bin.2019-10-11_03-59
+2019/10/11/4-mysql-bin.2019-10-11_04-59
+2019/10/11/5-mysql-bin.2019-10-11_05-59
+2019/10/11/6-mysql-bin.2019-10-11_06-59
+2019/10/11/7-mysql-bin.2019-10-11_07-59
+2019/10/11/8-mysql-bin.2019-10-11_08-59
+2019/10/11/9-mysql-bin.2019-10-11_09-59
+2019/10/12/
+2019/10/12/1-mysql-bin.2019-10-12_01-59
+2019/10/12/10-mysql-bin.2019-10-12_10-59
+2019/10/12/11-mysql-bin.2019-10-12_11-59
+2019/10/12/12-mysql-bin.2019-10-12_12-59
+2019/10/12/13-mysql-bin.2019-10-12_13-59
+2019/10/12/14-mysql-bin.2019-10-12_14-59
+2019/10/12/15-mysql-bin.2019-10-12_15-59
+2019/10/12/16-mysql-bin.2019-10-12_16-59
+2019/10/12/17-mysql-bin.2019-10-12_17-59
+2019/10/12/18-mysql-bin.2019-10-12_18-59
+2019/10/12/19-mysql-bin.2019-10-12_19-59
+2019/10/12/2-mysql-bin.2019-10-12_02-59
+2019/10/12/20-mysql-bin.2019-10-12_20-59
+2019/10/12/21-mysql-bin.2019-10-12_21-59
+2019/10/12/22-mysql-bin.2019-10-12_22-59
+2019/10/12/23-mysql-bin.2019-10-12_23-59
+2019/10/12/3-mysql-bin.2019-10-12_03-59
+2019/10/12/4-mysql-bin.2019-10-12_04-59
+2019/10/12/5-mysql-bin.2019-10-12_05-59
+2019/10/12/6-mysql-bin.2019-10-12_06-59
+2019/10/12/7-mysql-bin.2019-10-12_07-59
+2019/10/12/8-mysql-bin.2019-10-12_08-59
+2019/10/12/9-mysql-bin.2019-10-12_09-59
+2019/10/13/
+2019/10/13/1-mysql-bin.2019-10-13_01-59
+2019/10/13/10-mysql-bin.2019-10-13_10-59
+2019/10/13/11-mysql-bin.2019-10-13_11-59
+2019/10/13/12-mysql-bin.2019-10-13_12-59
+2019/10/13/13-mysql-bin.2019-10-13_13-59
+2019/10/13/14-mysql-bin.2019-10-13_14-59
+2019/10/13/15-mysql-bin.2019-10-13_15-59
+2019/10/13/16-mysql-bin.2019-10-13_16-59
+2019/10/13/17-mysql-bin.2019-10-13_17-59
+2019/10/13/18-mysql-bin.2019-10-13_18-59
+2019/10/13/19-mysql-bin.2019-10-13_19-59
+2019/10/13/2-mysql-bin.2019-10-13_02-59
+2019/10/13/20-mysql-bin.2019-10-13_20-59
+2019/10/13/21-mysql-bin.2019-10-13_21-59
+2019/10/13/22-mysql-bin.2019-10-13_22-59
+2019/10/13/23-mysql-bin.2019-10-13_23-59
+2019/10/13/3-mysql-bin.2019-10-13_03-59
+2019/10/13/4-mysql-bin.2019-10-13_04-59
+2019/10/13/5-mysql-bin.2019-10-13_05-59
+2019/10/13/6-mysql-bin.2019-10-13_06-59
+2019/10/13/7-mysql-bin.2019-10-13_07-59
+2019/10/13/8-mysql-bin.2019-10-13_08-59
+2019/10/13/9-mysql-bin.2019-10-13_09-59
+
+sent 76.46K bytes  received 5.77K bytes  54.82K bytes/sec
+total size is 49.93K  speedup is 0.61

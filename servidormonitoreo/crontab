@@ -1,0 +1,11 @@
+
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+
+00  1   1 * *   root  bash  /backupsscripts/bkmysql.sh
+00  4   1 * *   root  bash  /backupsscripts/enviarmysql.sh 
+00  5   1 * *   root  bash  /backupsscripts/enviarscripts.sh 
+
+
+

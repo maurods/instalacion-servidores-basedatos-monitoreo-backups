@@ -1,0 +1,6 @@
+
+
+
+00  8   * * *   root  bash  /backupsscripts/servidorbackups/rsyncGodaddy.sh
+
+
