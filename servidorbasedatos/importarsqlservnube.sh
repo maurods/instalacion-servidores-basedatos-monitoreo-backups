@@ -1,6 +1,6 @@
 #!/bin/bash 
 ruta=$1
-sshpass -p 'Enigma.2019' scp w71a6a844jqf@23.229.218.227:/home/w71a6a844jqf/backupsinmobiliaria/archivosbackups/servidorbasedatos/MYSQL/$ruta /backupsscripts/servidorbasedatos 
+sshpass -p 'Enigma.2019' scp usuario@10.10.10.10:/home/w71a6a844jqf/backupsinmobiliaria/archivosbackups/servidorbasedatos/MYSQL/$ruta /backupsscripts/servidorbasedatos 
 
 obtuvo=$( find /backupsscripts/servidorbasedatos/$ruta | wc -l )  
 
